@@ -18,17 +18,17 @@
 
   koala可以直接对scss进行编译，不需要敲命令，并且可以对scss进行监控，具体使用方法见：http://www.w3cplus.com/preprocessor/sass-gui-tool-koala.html
 
-  ***  注：此种编译方法比较方便，只要下载koalo即可，新建*.scss文件，拖进工作区点击”完成“，即可，并且可以监控添加到工作区的文件，不用每次点击编译； ***
+  ***注：此种编译方法比较方便，只要下载koalo即可，新建*.scss文件，拖进工作区点击”完成“，即可，并且可以监控添加到工作区的文件，不用每次点击编译;***
 
 > b、sass命令编译（推荐）
 
   此方法需要进行以下步骤：
-++ （1）因为sass依赖于ruby环境，所以装sass之前先确认装了ruby。官网下载：ruby；
+>（1）因为sass依赖于ruby环境，所以装sass之前先确认装了ruby。官网下载：ruby；
         在安装的时候，请勾选Add Ruby executables to your PATH这个选项，添加环境变量，不然以后使用编译软件的时候会提示找不到ruby环境
 
        ![koala预览](./files-readme/sass1.png)
 
-++ （2）安装完ruby之后，在开始菜单中，找到刚才我们安装的ruby，打开Start Command Prompt with Ruby
+>（2）安装完ruby之后，在开始菜单中，找到刚才我们安装的ruby，打开Start Command Prompt with Ruby
 
 ![koala预览](./files-readme/sass.png)
 
