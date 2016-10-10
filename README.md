@@ -2,7 +2,7 @@
 
 ## 一、效果图（如下）及使用的技术
 
-![项目预览](./img/xiaoguotu.png)
+![项目预览](./files-readme/xiaoguotu.png)
 
 >  实现用sass实现页面中右侧固定侧边栏的样式，用require.js实现返回顶部的功能
 
@@ -14,7 +14,7 @@
 
   koala 是一款桌面程序，支持 less 、 sass 、 coffeescript 即时编译。下载地址：http://koala-app.com/
 
-  ![koala预览](./img/koala.png)
+  ![koala预览](./files-readme/koala.png)
 
   koala可以直接对scss进行编译，不需要敲命令，并且可以对scss进行监控，具体使用方法见：http://www.w3cplus.com/preprocessor/sass-gui-tool-koala.html
 
@@ -26,11 +26,11 @@
 ++ （1）因为sass依赖于ruby环境，所以装sass之前先确认装了ruby。官网下载：ruby；
         在安装的时候，请勾选Add Ruby executables to your PATH这个选项，添加环境变量，不然以后使用编译软件的时候会提示找不到ruby环境
 
-       ![koala预览](./img/sass1.png)
+       ![koala预览](./files-readme/sass1.png)
 
 ++ （2）安装完ruby之后，在开始菜单中，找到刚才我们安装的ruby，打开Start Command Prompt with Ruby
 
-![koala预览](./img/sass.png)
+![koala预览](./files-readme/sass.png)
 
 
   然后在命令行中直接输入：
@@ -38,11 +38,11 @@
 
   按回车安装，如果安装不成功，可以直接在http://www.w3cplus.com/sassguide/install.html 中下载图中的“sass安装文件”
 
-  ![koala预览](./img/sassdownload1.png)
+  ![koala预览](./files-readme/sassdownload1.png)
 
    下载之后放到ruby的安装目录下的gems文件夹中即可（如下图）
 
-![koala预览](./img/sassDownload.png)
+![koala预览](./files-readme/sassDownload.png)
 
  安装完成后可以在命令行中输入命令：
 
@@ -59,7 +59,7 @@
 
 新建一个目录，结构如下
 
-![koala预览](./img/files.png)
+![koala预览](./files-readme/files.png)
 
  目录toolbar下有index.html、jquery-1.11.3js、main.js、require.js。require.js和jquery-1.11.3.js去各自官网下载即可。
 
